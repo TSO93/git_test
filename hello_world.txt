@@ -4,3 +4,5 @@ This is my first time actually feeling like a real developer so far!
 Can't wait to quit my stupid job and do this full time!!!!
 
 Just a test to make sure I know what I'm doing LOLOLOLOLOL
+
+We're doing ANOTHER test now, to make sure I understand the git commit in VSC thing.
